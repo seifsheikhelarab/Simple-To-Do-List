@@ -1,7 +1,5 @@
 # Simple To-Do List
 
-=====================
-
 A simple to-do list application made using HTML, CSS, and JavaScript.
 
 ## Features
